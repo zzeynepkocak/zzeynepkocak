@@ -14,7 +14,7 @@
 - 🌱 Learning **Java MVC Architecture, Object Detection and Pose Estimation**
 - 👯 Looking to collaborate on **Computer Vision Research**
 - 🤝 Seeking help with **Advanced Spring Boot patterns**
-- 📫 Reach me at: **zainapkocak@gmail.com**
+- 📫 Reach me at: "zeynep.kocak3@ogr.sakarya.edu.tr"
 
 ---
 
